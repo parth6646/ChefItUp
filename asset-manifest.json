@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChefitUp/static/css/main.10f9b903.css",
-    "main.js": "/ChefitUp/static/js/main.1b227158.js",
+    "main.css": "/ChefitUp/static/css/main.d1ae2318.css",
+    "main.js": "/ChefitUp/static/js/main.b57ec03d.js",
     "static/media/ONEDAY.ttf": "/ChefitUp/static/media/ONEDAY.69bfece1e10c3eb6d0cc.ttf",
     "index.html": "/ChefitUp/index.html",
     "static/media/search.svg": "/ChefitUp/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.10f9b903.css.map": "/ChefitUp/static/css/main.10f9b903.css.map",
-    "main.1b227158.js.map": "/ChefitUp/static/js/main.1b227158.js.map"
+    "main.d1ae2318.css.map": "/ChefitUp/static/css/main.d1ae2318.css.map",
+    "main.b57ec03d.js.map": "/ChefitUp/static/js/main.b57ec03d.js.map"
   },
   "entrypoints": [
-    "static/css/main.10f9b903.css",
-    "static/js/main.1b227158.js"
+    "static/css/main.d1ae2318.css",
+    "static/js/main.b57ec03d.js"
   ]
 }
